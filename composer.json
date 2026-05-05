@@ -18,7 +18,7 @@
         "doctrine/dbal": "~3.0",
         "maatwebsite/excel": "^3.1",
         "intervention/imagecache":"^2.3",
-        "laravel/framework": "^10.0",
+        "laravel/framework": "^8.0",
         "symfony/polyfill-php80": "^1.32",
         "symfony/polyfill-php81": "^1.32"
     },
